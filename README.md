@@ -17,8 +17,8 @@
 - Performance Optimization & Best Practices  
 
 ## 📫 How to reach me  
-- [LinkedIn](#https://www.linkedin.com/in/kayc-farias-b32840283)  
-- [Email](#Kaycg123@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/kayc-farias-b32840283)  
+- [Email](Kaycg123@gmail.com)  
 
 ## ⚡ Fun Fact  
 I love discovering new technologies and building side projects to apply what I learn!  
