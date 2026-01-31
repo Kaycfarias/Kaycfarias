@@ -48,15 +48,19 @@
 - **Microservices Architecture**
 - **DevOps & CI/CD Pipelines**
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Kayc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaycfarias&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaycfarias&layout=compact&theme=radical)
+```text
+🔥 Main Languages: TypeScript, Python, Rust, Lua
+⭐ Total Stars: 7
+🍴 Total Forks: 1
+📦 Public Repositories: 15
+```
 
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayc-farias-b32840283)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Kaycg123@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kaycfarias)
 
 ## ⚡ Fun Fact  
 I love discovering new technologies and building side projects to apply what I learn! From Discord bots in Python to full-stack e-commerce platforms in TypeScript, I'm always experimenting with new tools and frameworks.
